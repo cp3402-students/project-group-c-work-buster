@@ -7,7 +7,7 @@ This document provides a comprehensive guide for developing and deploying the Wo
 - **CMS**: WordPress
 - **Documentation and Team Management**: Trello, Miro
 - **Communication**: Discord, WhatsApp,Slack
-- **Local Environments & IDE**: PHP, XAMPP, Visual Studio Code
+- **Local Environments & IDE**: Visual Studio Code
 - **Version Control**: GitHub
 
 ### Trello
