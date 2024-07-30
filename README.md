@@ -2,7 +2,12 @@
 
 ## About The Project
 
-<img src="https://th.bing.com/th/id/OIP.Yj4ylss4ZYZU82cyGQElsAHaEK?rs=1&pid=ImgDetMain">
+Our project intention is to develop the website with a useful feature that companion to be 
+use in the education medium to promote their services. The appearance of the website can help attract 
+the people attention, pursuing them to explore more about the tuition detail. Nonetheless, we have
+enhance the content management within the project, which give the client clear instruction of what 
+we are doing and the approach in applying for the various offer program.
 
-![OIP](https://github.com/user-attachments/assets/ebb78a2b-91ed-439e-9042-800c77f443fc)
+The main service:
+ - efse
 
