@@ -53,12 +53,22 @@ Here is the full complete version of the website. Use this space to show useful 
 
 For the access to the documentation, please refer to the [Web_Resource](https://github.com/your-username/your-repository/releases/latest/download/your-file.zip).
 
+## Contributing
+
+
+
 ## Contact
 
 Thanatchai Leesirikul - Thanatchai.Leesirikul@my.jcu.edu.au
 
 Project Link: https://github.com/cp3402-students/project-group-c-work-buster
 
+## Acknowledgements
 
+The list resources found helpful and the credit:
+-  [AWS](https://aws.amazon.com/th/free/?gclid=Cj0KCQjw-5y1BhC-ARIsAAM_oKmzQtl411J1LsaJKKuFJ00O0VkKdkwcYFfKcmlgdgGqTPTP2tG0o8MaArAeEALw_wcB&trk=c4f45c53-585c-4b31-8fbf-d39fbcdc603a&sc_channel=ps&ef_id=Cj0KCQjw-5y1BhC-ARIsAAM_oKmzQtl411J1LsaJKKuFJ00O0VkKdkwcYFfKcmlgdgGqTPTP2tG0o8MaArAeEALw_wcB:G:s&s_kwcid=AL!4422!3!637354294239!e!!g!!aws!19043613274!143453611386&all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc&awsf.Free%20Tier%20Types=*all&awsf.Free%20Tier%20Categories=*all).
+-  [GitHub](https://github.com/).
+-  [Slack](https://slack.com/).
+-  [Trello](https://trello.com/).
 
 
