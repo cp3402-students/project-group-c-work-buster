@@ -36,7 +36,7 @@ Access the WordPress -> theme appearance -> add theme -> upload theme
 
 Choose file [here] (https://github.com/your-username/your-repository/releases/latest/download/your-file.zip).
 
-![Uploading Screenshot 2024-07-30 125718.png…]()
+![Screenshot 2024-07-30 125718](https://github.com/user-attachments/assets/f4380183-ceee-42ef-88c0-8841873037ce)
 
 
 
