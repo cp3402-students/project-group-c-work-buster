@@ -28,7 +28,7 @@ The main service:
 This is the instruction how to get start with the project as a beginner, all the source is free to use in
 any purpose.
 
-```bash
+``` ```
 
 You can download the latest version of the project [here](https://github.com/your-username/your-repository/releases/latest/download/your-file.zip).
 
