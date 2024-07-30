@@ -27,7 +27,7 @@ The main service:
 
 This is the instruction how to get start with the project as a beginner, all the source is free to use in any purpose. Feel free to modify the stater theme template.
 
-You can download the starter theme [here] (https://github.com/your-username/your-repository/releases/latest/download/your-file.zip).
+You can download the starter theme [here](https://github.com/your-username/your-repository/releases/latest/download/your-file.zip).
 
 Access the WordPress -> theme appearance -> add theme -> upload theme 
 
@@ -51,7 +51,7 @@ Afterward, you are able to continue editing the website on WordPress
 
 Here is the full complete version of the website. Use this space to show useful examples of how a project can be used. 
 
-For the access to the documentation, please refer to the [Web File] (https://github.com/your-username/your-repository/releases/latest/download/your-file.zip).
+For the access to the documentation, please refer to the [Web File](https://github.com/your-username/your-repository/releases/latest/download/your-file.zip).
 
 
 
