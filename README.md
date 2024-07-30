@@ -30,6 +30,9 @@ any purpose.
 
 You can download the starter theme [here] (https://github.com/your-username/your-repository/releases/latest/download/your-file.zip).
 
+Access the WordPress -> theme appearance -> add theme -> upload theme 
+
+![Screenshot 2024-07-30 125340](https://github.com/user-attachments/assets/f680f634-7578-4cb4-a10a-6c7299b9c3df)
 
 
 
