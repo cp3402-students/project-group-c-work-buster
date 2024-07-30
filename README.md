@@ -33,7 +33,7 @@ Access the WordPress -> theme appearance -> add theme -> upload theme
 
 ![Screenshot 2024-07-30 125340](https://github.com/user-attachments/assets/f680f634-7578-4cb4-a10a-6c7299b9c3df)
 
-Choose file [here] (https://github.com/your-username/your-repository/releases/latest/download/your-file.zip).
+Choose file [here](https://github.com/your-username/your-repository/releases/latest/download/your-file.zip).
 
 ![Screenshot 2024-07-30 125718](https://github.com/user-attachments/assets/f4380183-ceee-42ef-88c0-8841873037ce)
 
@@ -51,7 +51,7 @@ Afterward, you are able to continue editing the website on WordPress
 
 Here is the full complete version of the website. Use this space to show useful examples of how a project can be used. 
 
-For the access to the documentation, please refer to the [Web File](https://github.com/your-username/your-repository/releases/latest/download/your-file.zip).
+For the access to the documentation, please refer to the [Web_Resource](https://github.com/your-username/your-repository/releases/latest/download/your-file.zip).
 
 
 
