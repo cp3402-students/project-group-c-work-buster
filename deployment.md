@@ -6,7 +6,7 @@ This document provides a comprehensive guide for developing and deploying the Wo
 
 - **CMS**: WordPress
 - **Documentation and Team Management**: Trello, Miro
-- **Communication**: Discord, WhatsApp
+- **Communication**: Discord, WhatsApp,Slack
 - **Local Environments & IDE**: PHP, XAMPP, Visual Studio Code
 - **Version Control**: GitHub
 
@@ -21,6 +21,9 @@ Discord is used for team communication. It supports text, voice communication, f
 
 ### WhatsApp
 WhatsApp is used for quick, on-the-go communication. It supports text, voice calls, file sharing, and screen-sharing, making it convenient for immediate updates and collaboration.
+
+### Slack
+Slack is another communication tool used for this project. It offers a platform for organized conversations, file sharing, and integration with other tools we use.
 
 ### Local Environments & IDE
 - **Visual Studio Code**: Preferred IDE for editing PHP, CSS, and other code files.
@@ -38,8 +41,7 @@ WhatsApp is used for quick, on-the-go communication. It supports text, voice cal
 1. **GitHub Repository**: Create or join the GitHub repository.
 2. **Clone Repository**: Clone the repository to your local machine.
     ```bash
-    git clone https://github.com/your-repo.git
-    cd your-repo
+    git clone https://github.com/cp3402-students/project-group-c-work-buster.git
     ```
 3. **Set Up Local Git**: Connect your local repository with GitHub.
 
