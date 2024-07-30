@@ -25,8 +25,7 @@ The main service:
 
 ## Getting Started
 
-This is the instruction how to get start with the project as a beginner, all the source is free to use in
-any purpose.
+This is the instruction how to get start with the project as a beginner, all the source is free to use in any purpose. Feel free to modify the stater theme template.
 
 You can download the starter theme [here] (https://github.com/your-username/your-repository/releases/latest/download/your-file.zip).
 
@@ -37,6 +36,16 @@ Access the WordPress -> theme appearance -> add theme -> upload theme
 Choose file [here] (https://github.com/your-username/your-repository/releases/latest/download/your-file.zip).
 
 ![Screenshot 2024-07-30 125718](https://github.com/user-attachments/assets/f4380183-ceee-42ef-88c0-8841873037ce)
+
+Install the file
+
+![Screenshot 2024-07-30 130316](https://github.com/user-attachments/assets/7aee1fe5-8fe8-468f-b9a2-64ab40df5f0f)
+
+Activate the theme
+
+![Screenshot 2024-07-30 130427](https://github.com/user-attachments/assets/e5cc8019-ece8-495f-b710-1624eff3e555)
+
+Afterward, you are able to continue editing the website on WordPress
 
 
 
