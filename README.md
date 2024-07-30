@@ -55,9 +55,9 @@ For the access to the documentation, please refer to the [Web_Resource](https://
 
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+Thanatchai Leesirikul - Thanatchai.Leesirikul@my.jcu.edu.au
 
-Project Link: [@https://github.com/cp3402-students/project-group-c-work-buster)
+Project Link: https://github.com/cp3402-students/project-group-c-work-buster
 
 
 
