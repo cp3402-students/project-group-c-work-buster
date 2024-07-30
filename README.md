@@ -9,5 +9,11 @@ enhance the content management within the project, which give the client clear i
 we are doing and the approach in applying for the various offer program.
 
 The main service:
- - efse
+ - Introduce the tuition activity
+ - Offer the student with various option of subject course
+ - Offer the student with preferred and personalized subject course
+ - Show the avalibility of the time in subject course
+ - Have a FAQs section and many show case of study experience
+
+
 
