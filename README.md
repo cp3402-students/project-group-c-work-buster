@@ -23,4 +23,12 @@ The main service:
 
 ![5728370_06e3_3](https://github.com/user-attachments/assets/ba3733a0-fc68-48c1-b83e-284e7a4be450)
 
+## Getting Started
+
+This is the instruction how to get start with the project as a beginner, all the source is free to use in
+any purpose.
+
+```bash
+# This is a shell command
+echo "Hello, world!"
 
