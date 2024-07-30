@@ -29,6 +29,9 @@ This is the instruction how to get start with the project as a beginner, all the
 any purpose.
 
 ```bash
-# This is a shell command
-echo "Hello, world!"
+
+You can download the latest version of the project [here](https://github.com/your-username/your-repository/releases/latest/download/your-file.zip).
+
+## Usage
+
 
