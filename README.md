@@ -47,6 +47,11 @@ Activate the theme
 
 Afterward, you are able to continue editing the website on WordPress
 
+## Usage
+
+Here is the full complete version of the website. Use this space to show useful examples of how a project can be used. 
+
+For the access to the documentation, please refer to the [Web File] (https://github.com/your-username/your-repository/releases/latest/download/your-file.zip).
 
 
 
